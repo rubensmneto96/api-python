@@ -1,2 +1,4 @@
-#Ignore __pycache__
+#Ignore files
 __pycache__/
+secrets.json
+db.py
